@@ -27,19 +27,19 @@ A structured framework was required to bring clarity to the product architecture
   
 The developed automation aims to standardize product evolution while ensuring transparency of decisions and delivered value. It supports the Product Management process across the following steps:  
   
-• Request Intake  
+• **Request Intake**  
 Any member of the software organization — from sales teams in direct contact with customers to engineering teams with deep technical expertise — can submit a high-level description of an idea or business need via Google Forms. These inputs will be evaluated by the Product Management team.  
   
-• Centralization  
+• **Centralization**  
 All requests automatically populate Google Sheets, which serves as the single source of truth for Product Management analysis. This ensures that ideas are not lost in private notes or informal conversations and that all inputs are consistently captured within the framework.  
   
-• Scoring & Prioritization  
+• **Scoring & Prioritization**  
 Rules implemented in Google Apps Script automatically score, prioritize, and update requests based on predefined Product Management criteria. Validation logic and dialog boxes prevent users from entering invalid or inconsistent data, safeguarding data quality and ensuring reliable downstream analysis and visualization.  
   
-• Visualization  
+• **Visualization**  
 Google Looker Studio dashboards provide real-time visibility into priority ranking, roadmap alignment, and progress tracking. These insights support management decision-making and enable clear communication with internal and external stakeholders, including product roadmap discussions.  
   
-• Decision Making  
+• **Decision Making**  
 Product Managers and stakeholders use the dashboards as a shared decision-support tool to align on priorities, roadmap commitments, and next steps.  
   
   
