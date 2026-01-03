@@ -1,9 +1,16 @@
 # Product Governance Automation Framework
+
 End-to-end automated Product Governance Framework that transforms raw product requests into prioritized, actionable insights. It empowers product managers to make data-driven decisions and gives stakeholders transparent visibility into priorities, progress, and the product roadmap.  
 
   
 ## Business Problem  
 
+The absence of a defined Product Management process and governance structure resulted in limited visibility into the product’s potential, strategic direction, and value creation. Customer and internal requests were distributed across individual notebooks and informal channels, making it difficult to assess demand patterns, prioritize effectively, or maintain a coherent product strategy.  
+  
+Product decisions were largely centralized with a single director, without a transparent rationale or clear linkage to customer value, business impact, or roadmap objectives. As a result, prioritization was reactive, stakeholder alignment was weak, and valuable insights were frequently lost.  
+  
+A structured framework was required to bring clarity to the product architecture (modules), identify where demand was concentrated, and establish a consistent, data-driven approach to prioritization and strategic focus.  
+  
   
 ## Tools and Skills  
 
