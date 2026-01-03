@@ -7,26 +7,33 @@ End-to-end automated Product Governance Framework that transforms raw product re
   
 ## Tools and Skills  
 
-.: **Google Forms** – Standardized intake of product requests, eliminating ad-hoc emails and inconsistent inputs.  
+• **Google Forms** – Standardized intake of product requests, eliminating ad-hoc emails and inconsistent inputs.  
   
-.: **Google Sheets** – Central database and single source of truth, reducing duplication and manual consolidation.  
+• **Google Sheets** – Central database and single source of truth, reducing duplication and manual consolidation.  
   
-.: **Google Apps Script** – Automated updates, scoring, and request enrichment, preventing invalid or inconsistent data from entering the database.  
+• **Google Apps Script** – Automated updates, scoring, and request enrichment, preventing invalid or inconsistent data from entering the database.  
   
-.: **Google Looker Studio** – Dynamic dashboards providing actionable insights and visibility into priorities and progress.  
+• **Google Looker Studio** – Dynamic dashboards providing actionable insights and visibility into priorities and progress.  
 
 
 ## Process and Framework Application  
   
-.: **Request Intake:** Users submit via Google Forms.  
+The developed automation aims to standardize product evolution while ensuring transparency of decisions and delivered value. It supports the Product Management process across the following steps:  
   
-.: **Centralization:** Requests auto-populate Google Sheets.  
+• Request Intake  
+Any member of the software organization — from sales teams in direct contact with customers to engineering teams with deep technical expertise — can submit a high-level description of an idea or business need via Google Forms. These inputs will be evaluated by the Product Management team.  
   
-.: **Scoring & Prioritization:** Apps Script evaluates and scores requests based on defined criteria.  
+• Centralization  
+All requests automatically populate Google Sheets, which serves as the single source of truth for Product Management analysis. This ensures that ideas are not lost in private notes or informal conversations and that all inputs are consistently captured within the framework.  
   
-.: **Visualization:** Looker Studio dashboards show priority ranking, roadmap alignment, and progress tracking.  
+• Scoring & Prioritization  
+Rules implemented in Google Apps Script automatically score, prioritize, and update requests based on predefined Product Management criteria. Validation logic and dialog boxes prevent users from entering invalid or inconsistent data, safeguarding data quality and ensuring reliable downstream analysis and visualization.  
   
-.: **Decision Making:** PMs and stakeholders use dashboards to align on roadmap and next steps.  
+• Visualization  
+Google Looker Studio dashboards provide real-time visibility into priority ranking, roadmap alignment, and progress tracking. These insights support management decision-making and enable clear communication with internal and external stakeholders, including product roadmap discussions.  
+  
+• Decision Making  
+Product Managers and stakeholders use the dashboards as a shared decision-support tool to align on priorities, roadmap commitments, and next steps.  
   
   
 ## Business Value
